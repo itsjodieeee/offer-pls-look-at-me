@@ -2,7 +2,7 @@
 
 一个把「岗位表」变得好筛的小工具。秋招海投季，表里两千个岗位，我只想三秒找到我能投的那几个。
 
-👉 **在线使用：https://josearmandodeh-ux.github.io/offer-pls-look-at-me/**
+👉 **在线使用：https://itsjodieeee.github.io/offer-pls-look-at-me/**
 
 ## 能干嘛
 
